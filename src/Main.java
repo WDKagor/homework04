@@ -43,8 +43,7 @@ public class Main {
         else if (numberOfPeopleInTheCarriage < 60 && numberOfPeopleInTheCarriage < 102) {System.out.println("В вагоне свободно " + (60 - numberOfPeopleInTheCarriage) + " сидячих мест и " + (102 - 60) + " стоячих места");}
         else if (numberOfPeopleInTheCarriage == 102) {System.out.println ("В вагоне нет свободных мест");};
 
-        System.out.println ("   ");
-        System.out.println ("Задача 7");
+
 
 
 
